@@ -1,9 +1,16 @@
+## Manisa Celal Bayar University - Faculty of Tecnology
+
+by [@merveyapnaz](https://github.com/merveyapnaz) and [@ezranbayantemur](https://github.com/ezranbayantemur)
+
+
 # Clothes Classification on CNN with F-MNIST Dataset
 With this project we intended to classify clothing products such as shirts, clothes and shoes by using Deep Learning.
 
 By creating layered artificial neural network with Convolutional Neural Network (CNN), we trained it with fashion_mnist dataset in the Keras library 
 
 As a result our output model can classify a clothes by it's category. 
+
+by [@merveyapnaz](https://github.com/merveyapnaz) and [@ezranbayantemur](https://github.com/ezranbayantemur)
 
 ### Layer Info
 Our model uses fashion_mnist dataset as input, which is Keras library about clothes and fashion data. As architectural, our CNN model's created by multiple Conv2D and MaxPooling2D layers with 'relu' activators and multiple Dense layers.
